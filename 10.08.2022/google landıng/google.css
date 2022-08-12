@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 30px;
+    /* border: 2px solid red; */
+
+
+}
+
+.header .bir {
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.header .bir a {
+    display: flex;
+    margin: 10px;
+    text-decoration: none;
+    padding-top: 5px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.header .iki {
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.header .iki a {
+    display: flex;
+    justify-content:space-between;
+    margin: 10px;
+    text-decoration: none;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.logo1 img  {
+    width: 40px;
+    height: 45px;
+    padding-top: 7px;
+
+}
+
+.sing a {
+    border: 2px solid black ;
+    height: 30px;
+    width: 70px;
+    border-color: blue;
+    background-color: blue;
+    color: white !important;
+    padding: 5px;
+   
+}
+
+main {
+    text-align: center !important;
+    padding-top: 100px;
+    display: block;
+}
+
+.container {
+    display:inline-flex;
+    border: 2px solid red;
+        /* width: 584px;
+        height: 44px; */
+    padding: 10px;
+    margin: 10px;
+    margin-top: 20px;
+    
+
+}
+
+.arama label input {
+    width: 483px;
+    height: 34px;
+    margin: 0px 10px;
+
+}
+
+.mic img {
+    width: 24px;
+    height: 24px;
+    margin: auto;
+}
+
+.buton {
+    display:flex;
+    margin-left: 600px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+
+}
+
+/* .buton div {
+    margin: 5px;
+} */
+
+.googleara {
+    margin-right: 10px;
+    text-decoration: none;
+    /* margin-bottom: 30px;; */
+}
+
+.googleara a {
+    text-decoration: none;
+    border: 2px solid rgba(0, 0, 0, 0.268);
+    padding: 12px 16px;
+    width: 123px;
+    height: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.692);
+    background-color: rgba(0, 0, 0, 0.056);
+}
+
+
+.kendi {
+    margin-left: 10px;
+}
+
+.kendi a {
+    text-decoration: none;
+    border: 2px solid rgba(0, 0, 0, 0.268);
+    padding: 12px 16px;
+    width: 123px;
+    height: 36px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.692);
+    background-color: rgba(0, 0, 0, 0.056);
+}
+
+footer {
+    /* border: 2px solid red; */
+    display: flex;
+    text-align: center !important;
+    width: 25%;
+    padding: 20px 35px;
+    margin: 40px;
+    margin-left: 600px;
+        
+}
+
+.write p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 5px;
+}
+
+.english a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
